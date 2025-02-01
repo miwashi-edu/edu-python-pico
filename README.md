@@ -1,4 +1,5 @@
 # edu-python-pico
+[mpremote](https://docs.micropython.org/en/latest/reference/mpremote.html)  
 
 ## Prepare
 
